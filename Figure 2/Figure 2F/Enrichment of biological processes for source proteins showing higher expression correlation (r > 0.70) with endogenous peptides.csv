@@ -1,0 +1,52 @@
+"category","subcategory","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"Metabolism","Amino acid metabolism","zma00380","Tryptophan metabolism","5/56","64/6685",0.000180021914371337,0.00918111763293817,0.00833785708667243,"100272363/542229/542228/103644157/100272716",5
+"Metabolism","Metabolism of other amino acids","zma00480","Glutathione metabolism","6/56","120/6685",0.000460565034961214,0.011744408391511,0.0106657165991018,"103634830/541829/541842/541850/542734/542587",6
+"Metabolism","Energy metabolism","zma00195","Photosynthesis","6/56","146/6685",0.00129345137176128,0.0219886733199418,0.0199690738096479,"100283327/100282043/100191984/100272890/541685/100282566",6
+"Metabolism","Energy metabolism","zma00710","Carbon fixation by Calvin cycle","5/56","108/6685",0.0019905794904638,0.0253798885034134,0.0230488151527387,"542290/541622/100281237/542212/100272845",5
+"Metabolism","Carbohydrate metabolism","zma00010","Glycolysis / Gluconeogenesis","6/56","166/6685",0.00248917565926902,0.025389591724544,0.0230576271595446,"100283280/542376/541622/100283735/100281237/100272845",6
+"Metabolism","Global and overview maps","zma01200","Carbon metabolism","8/56","338/6685",0.00666262821317297,0.0566323398119703,0.0514308142771247,"542252/100283280/542290/541622/100283735/100281237/542212/100272845",8
+"Metabolism","Carbohydrate metabolism","zma00051","Fructose and mannose metabolism","3/56","74/6685",0.023741497925133,0.172973770597398,0.15708660281291,"100283066/100283735/100272845",3
+"Metabolism","Biosynthesis of other secondary metabolites","zma00940","Phenylpropanoid biosynthesis","4/56","209/6685",0.0969907077127322,0.528768543341354,0.480202598700094,"542464/100194034/103631733/100282124",4
+"Metabolism","Lipid metabolism","zma00590","Arachidonic acid metabolism","1/56","13/6685",0.10368010653752,0.528768543341354,0.480202598700094,"103634830",1
+NA,NA,"zma04820","Cytoskeleton in muscle cells","1/56","13/6685",0.10368010653752,0.528768543341354,0.480202598700094,"100283280",1
+"Metabolism","Metabolism of other amino acids","zma00430","Taurine and hypotaurine metabolism","1/56","15/6685",0.118664218837736,0.550170469156777,0.499638816158889,"103634830",1
+"Genetic Information Processing","Folding, sorting and degradation","zma03060","Protein export","2/56","80/6685",0.144313598066254,0.576318542206979,0.523385260208609,"100274280/100193087",2
+"Metabolism","Biosynthesis of other secondary metabolites","zma00960","Tropane, piperidine and pyridine alkaloid biosynthesis","1/56","20/6685",0.155056498363301,0.576318542206979,0.523385260208609,"100279205",1
+"Metabolism","Biosynthesis of other secondary metabolites","zma00950","Isoquinoline alkaloid biosynthesis","1/56","22/6685",0.169196506176881,0.576318542206979,0.523385260208609,"100279205",1
+"Metabolism","Carbohydrate metabolism","zma00520","Amino sugar and nucleotide sugar metabolism","3/56","173/6685",0.176102776302334,0.576318542206979,0.523385260208609,"100280478/100283735/100272870",3
+"Metabolism","Carbohydrate metabolism","zma00040","Pentose and glucuronate interconversions","2/56","95/6685",0.188833906252778,0.576318542206979,0.523385260208609,"100283066/103653359",2
+"Metabolism","Carbohydrate metabolism","zma00630","Glyoxylate and dicarboxylate metabolism","2/56","107/6685",0.225672714340356,0.576318542206979,0.523385260208609,"542252/542212",2
+"Metabolism","Lipid metabolism","zma00565","Ether lipid metabolism","1/56","32/6685",0.236483608129725,0.576318542206979,0.523385260208609,"103630082",1
+"Metabolism","Global and overview maps","zma01230","Biosynthesis of amino acids","4/56","297/6685",0.236790909432922,0.576318542206979,0.523385260208609,"100283280/100281237/100194360/100272845",4
+"Metabolism","Lipid metabolism","zma00073","Cutin, suberine and wax biosynthesis","1/56","35/6685",0.255604765073015,0.576318542206979,0.523385260208609,"100217206",1
+"Metabolism","Amino acid metabolism","zma00360","Phenylalanine metabolism","1/56","35/6685",0.255604765073015,0.576318542206979,0.523385260208609,"100279205",1
+"Metabolism","Lipid metabolism","zma01040","Biosynthesis of unsaturated fatty acids","1/56","35/6685",0.255604765073015,0.576318542206979,0.523385260208609,"100282744",1
+"Metabolism","Carbohydrate metabolism","zma00620","Pyruvate metabolism","2/56","118/6685",0.259908362171775,0.576318542206979,0.523385260208609,"542252/541622",2
+"Metabolism","Amino acid metabolism","zma00350","Tyrosine metabolism","1/56","43/6685",0.304324957624546,0.617093442382625,0.560415097313426,"100279205",1
+"Metabolism","Biosynthesis of other secondary metabolites","zma00941","Flavonoid biosynthesis","1/56","47/6685",0.327496565558882,0.617093442382625,0.560415097313426,"100286107",1
+"Genetic Information Processing","Information processing in viruses","zma03250","Viral life cycle - HIV-1","1/56","47/6685",0.327496565558882,0.617093442382625,0.560415097313426,"100382556",1
+"Metabolism","Amino acid metabolism","zma00270","Cysteine and methionine metabolism","2/56","143/6685",0.337651914041728,0.617093442382625,0.560415097313426,"100194360/100279205",2
+"Metabolism","Metabolism of other amino acids","zma00460","Cyanoamino acid metabolism","1/56","49/6685",0.338796399739481,0.617093442382625,0.560415097313426,"103634830",1
+"Metabolism","Metabolism of cofactors and vitamins","zma00130","Ubiquinone and other terpenoid-quinone biosynthesis","1/56","53/6685",0.360839494393891,0.634579800485809,0.576295381246142,"100279205",1
+"Environmental Information Processing","Signal transduction","zma04075","Plant hormone signal transduction","5/56","486/6685",0.385512400065613,0.64320607535168,0.584129356356531,"103636577/542586/103629702/100272716/100274512",5
+"Metabolism","Amino acid metabolism","zma00400","Phenylalanine, tyrosine and tryptophan biosynthesis","1/56","59/6685",0.392557346393498,0.64320607535168,0.584129356356531,"100279205",1
+"Metabolism","Carbohydrate metabolism","zma00500","Starch and sucrose metabolism","2/56","179/6685",0.444941837845855,0.64320607535168,0.584129356356531,"100285574/100283735",2
+"Metabolism","Carbohydrate metabolism","zma00030","Pentose phosphate pathway","1/56","71/6685",0.451425488416264,0.64320607535168,0.584129356356531,"100272845",1
+"Metabolism","Carbohydrate metabolism","zma00052","Galactose metabolism","1/56","71/6685",0.451425488416264,0.64320607535168,0.584129356356531,"100283735",1
+"Metabolism","Metabolism of terpenoids and polyketides","zma00900","Terpenoid backbone biosynthesis","1/56","71/6685",0.451425488416264,0.64320607535168,0.584129356356531,"100282878",1
+"Metabolism","Biosynthesis of other secondary metabolites","zma00999","Biosynthesis of various plant secondary metabolites","1/56","74/6685",0.46524407173009,0.64320607535168,0.584129356356531,"100194360",1
+"Environmental Information Processing","Signal transduction","zma04016","MAPK signaling pathway - plant","2/56","193/6685",0.484170509179308,0.64320607535168,0.584129356356531,"103636577/100274512",2
+"Metabolism","Nucleotide metabolism","zma00240","Pyrimidine metabolism","1/56","79/6685",0.487519095995075,0.64320607535168,0.584129356356531,"100382896",1
+"Metabolism","Carbohydrate metabolism","zma00020","Citrate cycle (TCA cycle)","1/56","80/6685",0.491863469386579,0.64320607535168,0.584129356356531,"541622",1
+"Metabolism","Global and overview maps","zma01212","Fatty acid metabolism","1/56","90/6685",0.533365572156962,0.680041104500126,0.617581188813324,"100282744",1
+"Cellular Processes","Transport and catabolism","zma04144","Endocytosis","2/56","222/6685",0.559915514159891,0.696480273711084,0.632510465289736,"100280470/103630082",2
+"Metabolism","Global and overview maps","zma01232","Nucleotide metabolism","1/56","104/6685",0.585927001166206,0.711482787130393,0.646135038880026,"100382896",1
+"Metabolism","Global and overview maps","zma01250","Biosynthesis of nucleotide sugars","1/56","114/6685",0.619865179952576,0.735188934362357,0.667663841319788,"100283735",1
+"Metabolism","Energy metabolism","zma00190","Oxidative phosphorylation","2/56","257/6685",0.640635770246605,0.742555097331292,0.674353442364847,"103629702/100282566",2
+"Metabolism","Lipid metabolism","zma00564","Glycerophospholipid metabolism","1/56","130/6685",0.668566335938333,0.757708514063444,0.688115059211384,"103630082",1
+"Genetic Information Processing","Folding, sorting and degradation","zma03018","RNA degradation","1/56","139/6685",0.693210411711416,0.761492648792838,0.691551631514651,"100283280",1
+"Genetic Information Processing","Translation","zma03013","Nucleocytoplasmic transport","1/56","144/6685",0.70611435826496,0.761492648792838,0.691551631514651,"100382556",1
+"Metabolism","Global and overview maps","zma01240","Biosynthesis of cofactors","2/56","296/6685",0.71669896356973,0.761492648792838,0.691551631514651,"100382896/100194360",2
+"Genetic Information Processing","Translation","zma03010","Ribosome","3/56","486/6685",0.784319152809431,0.816332179454714,0.741354301259183,"100280577/100285173/100273366",3
+"Organismal Systems","Environmental adaptation","zma04626","Plant-pathogen interaction","1/56","253/6685",0.885780225548623,0.903495830059596,0.820512208929251,"103636577",1
+"Genetic Information Processing","Folding, sorting and degradation","zma04141","Protein processing in endoplasmic reticulum","1/56","283/6685",0.912188637898982,0.912188637898982,0.82840660614149,"606409",1
